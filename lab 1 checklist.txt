@@ -1,0 +1,29 @@
+Check-list:
+1. search input field
+2. Localisation dropdown menu
+3. Currency dropdown menu
+4. Sign in redirection button
+	4.1 redirection on authentication form
+	4.2 email field filter
+	4.3 password field mask
+	4.4 sign in button
+	4.5 sign up button
+5. top ad banner redirection to actual sales
+6. Logo redirection to home page
+7. Dropdown menus
+	7.1 Womens
+	7.2 dresses
+	7.3 tshits
+8. Catalog search filters
+	8.1 categories checkboxes
+	8.2 size checkboxes
+	8.3 color filters
+	8.4 Properties checkboxes 
+	8.1 Compositions checkboxes
+	8.1 Styles checkboxes
+	8.1 Availability checkboxes
+	8.1 Manufacturer checkboxes
+	8.1 Condition checkboxes
+	8.1 Weight slider
+	8.1 Price slider
+
